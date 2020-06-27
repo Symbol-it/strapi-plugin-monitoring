@@ -1,0 +1,28 @@
+{
+  "name": "strapi-plugin-monitoring",
+  "version": "0.0.0",
+  "description": "This is the description of the plugin.",
+  "strapi": {
+    "name": "monitoring",
+    "icon": "plug",
+    "description": "Description of monitoring plugin."
+  },
+  "dependencies": {},
+  "author": {
+    "name": "Tony Deplanque",
+    "email": "deplanque.tony@gmail.com",
+    "url": ""
+  },
+  "maintainers": [
+    {
+      "name": "A Strapi developer",
+      "email": "",
+      "url": ""
+    }
+  ],
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
